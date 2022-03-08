@@ -1,0 +1,15 @@
+total 88
+drwxr-xr-x  14 roheesawoyoola  staff  448 Mar  8 07:56 .
+drwxr-xr-x   7 roheesawoyoola  staff  224 Mar  7 22:34 ..
+-rwxr--r--   1 roheesawoyoola  staff   32 Mar  8 06:06 0-hello_world
+-rw-r--r--   1 roheesawoyoola  staff   30 Mar  8 07:03 1-confused_smiley
+-rwxr--r--   1 roheesawoyoola  staff   29 Mar  8 07:06 2-hellofile
+-rwxr--r--   1 roheesawoyoola  staff   40 Mar  8 07:14 3-twofiles
+-rwxr--r--   1 roheesawoyoola  staff   35 Mar  8 07:17 4-lastlines
+-rwxr--r--   1 roheesawoyoola  staff   35 Mar  8 07:21 5-firstlines
+-rwxr--r--   1 roheesawoyoola  staff   40 Mar  8 07:35 6-third_line
+-rwxr-xr-x   1 roheesawoyoola  staff   86 Mar  8 07:51 7-file
+-rwxr--r--   1 roheesawoyoola  staff   35 Mar  8 07:59 8-cwd_state
+-rw-r--r--   1 roheesawoyoola  staff   19 Mar  8 06:11 README.md
+-rw-r--r--   1 roheesawoyoola  staff  815 Mar  8 07:30 iacta
+-rw-r--r--   1 roheesawoyoola  staff    0 Mar  8 07:59 ls_cwd_content
